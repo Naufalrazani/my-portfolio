@@ -98,7 +98,7 @@ const Hero = () => {
               <img
                 src={profilePic}
                 alt="Profile"
-                className="rounded-3xl shadow-2xl object-cover w-full  border-4 border-white"
+                className="rounded-3xl shadow-2xl object-cover w-full aspect-4/5 border-4 border-white"
               />
 
               {/* Experience Badge */}
